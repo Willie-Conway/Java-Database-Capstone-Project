@@ -29,7 +29,7 @@
     <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Daily%20Appointment%20Report%20by%20Doctor.png" width="200" />
     <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Searching%20Doctor.png" width="200" />
     <img src="https:https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/mvn%20spring-boot-run%20.png" width="200" />
-    <img src=https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Doctor%20Portal.png" width="200" />
+    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Doctor%20Portal.png" width="200" />
 </p>
 
 **Smart Clinic Management System** is a comprehensive full-stack healthcare application designed to modernize clinic operations. Built as the **Capstone Project for Java Development**, this system integrates multiple technologies to provide a seamless experience for administrators, doctors, and patients.
