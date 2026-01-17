@@ -28,7 +28,7 @@
     <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Adding%20Doctor.png" width="200" />
     <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Daily%20Appointment%20Report%20by%20Doctor.png" width="200" />
     <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Searching%20Doctor.png" width="200" />
-    <img src="https:https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/mvn%20spring-boot-run%20.png" width="200" />
+    <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/012e563df79072c75d21053a80d5cc7d8dd3ed62/Screenshots/Appointments%20List.png" width="200" />
     <img src="https://github.com/Willie-Conway/Java-Database-Capstone-Project/blob/80807592dc5aee9b5f21655a5a0ceac6f5f37afb/Screenshots/Doctor%20Portal.png" width="200" />
 </p>
 
